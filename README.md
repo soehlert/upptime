@@ -8,7 +8,7 @@ Upptime is the open-source uptime monitor and status page, powered entirely by G
 [![Summary CI](https://github.com/koj-co/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
-Live status: <!--live status--> **🟨 Partial outage**
+Live status: <!--live status--> **🟩 All systems operational**
 
 ## ⭐ How it works
 
@@ -37,12 +37,8 @@ _This section is updated automatically when the status of any site changes._
 
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [Google](https://www.google.com) | 🟩 Up | [google.yml](https://github.com/koj-co/upptime/commits/master/history/google.yml) | <img alt="Response time graph" src="./graphs/google.png" height="20"> 76ms | 100.00%
-| [Wikipedia](https://en.wikipedia.org) | 🟩 Up | [wikipedia.yml](https://github.com/koj-co/upptime/commits/master/history/wikipedia.yml) | <img alt="Response time graph" src="./graphs/wikipedia.png" height="20"> 124ms | 100.00%
-| [Internet Archive](https://archive.org) | 🟩 Up | [internet-archive.yml](https://github.com/koj-co/upptime/commits/master/history/internet-archive.yml) | <img alt="Response time graph" src="./graphs/internet-archive.png" height="20"> 555ms | 100.00%
-| [Hacker News](https://news.ycombinator.com) | 🟩 Up | [hacker-news.yml](https://github.com/koj-co/upptime/commits/master/history/hacker-news.yml) | <img alt="Response time graph" src="./graphs/hacker-news.png" height="20"> 462ms | 100.00%
-| [Broken Site](https://thissitedoesnotexist.com) | 🟥 Down | [broken-site.yml](https://github.com/koj-co/upptime/commits/master/history/broken-site.yml) | <img alt="Response time graph" src="./graphs/broken-site.png" height="20"> 0ms | 0.00%
-| Secret Site | 🟩 Up | [secret-site.yml](https://github.com/koj-co/upptime/commits/master/history/secret-site.yml) | <img alt="Response time graph" src="./graphs/secret-site.png" height="20"> 37ms | 100.00%
+| [Soehlert](https://www.soehlert.com) | 🟩 Up | [soehlert.yml](https://github.com/soehlert/upptime/commits/master/history/soehlert.yml) | <img alt="Response time graph" src="./graphs/soehlert.png" height="20"> 201ms | 100.00%
+| [SamOehlert](https://www.samoehlert.com) | 🟩 Up | [sam-oehlert.yml](https://github.com/soehlert/upptime/commits/master/history/sam-oehlert.yml) | <img alt="Response time graph" src="./graphs/sam-oehlert.png" height="20"> 223ms | 100.00%
 
 <!--end: status pages-->
 

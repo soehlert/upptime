@@ -4,15 +4,15 @@
     "url": "https://www.soehlert.com",
     "slug": "soehlert",
     "status": "down",
-    "uptime": "100.00",
+    "uptime": "99.96",
     "time": 412
   },
   {
     "name": "SamOehlert",
     "url": "https://www.samoehlert.com",
     "slug": "sam-oehlert",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 171
+    "time": 169
   }
 ]

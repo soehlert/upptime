@@ -3,15 +3,15 @@
     "name": "Soehlert",
     "url": "https://www.soehlert.com",
     "slug": "soehlert",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 382
+    "time": 385
   },
   {
     "name": "SamOehlert",
     "url": "https://www.samoehlert.com",
     "slug": "sam-oehlert",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
     "time": 195
   }

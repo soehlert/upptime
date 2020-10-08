@@ -3,7 +3,7 @@
     "name": "Soehlert",
     "url": "https://www.soehlert.com",
     "slug": "soehlert",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
     "time": 385
   },
@@ -11,8 +11,8 @@
     "name": "SamOehlert",
     "url": "https://www.samoehlert.com",
     "slug": "sam-oehlert",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 193
+    "time": 192
   }
 ]

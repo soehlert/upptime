@@ -37,7 +37,7 @@ _This section is updated automatically when the status of any site changes._
 
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [Soehlert](https://www.soehlert.com) | 🟩 Up | [soehlert.yml](https://github.com/soehlert/upptime/commits/master/history/soehlert.yml) | <img alt="Response time graph" src="./graphs/soehlert.png" height="20"> 289ms | 100.00%
+| [Soehlert](https://www.soehlert.com) | 🟩 Up | [soehlert.yml](https://github.com/soehlert/upptime/commits/master/history/soehlert.yml) | <img alt="Response time graph" src="./graphs/soehlert.png" height="20"> 283ms | 100.00%
 | [SamOehlert](https://www.samoehlert.com) | 🟩 Up | [sam-oehlert.yml](https://github.com/soehlert/upptime/commits/master/history/sam-oehlert.yml) | <img alt="Response time graph" src="./graphs/sam-oehlert.png" height="20"> 158ms | 100.00%
 
 <!--end: status pages-->

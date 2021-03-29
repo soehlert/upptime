@@ -8,7 +8,7 @@ Upptime is the open-source uptime monitor and status page, powered entirely by G
 [![Summary CI](https://github.com/koj-co/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
-Live status: <!--live status--> **🟨 Partial outage**
+Live status: <!--live status--> **🟩 All systems operational**
 
 ## ⭐ How it works
 
@@ -38,7 +38,7 @@ _This section is updated automatically when the status of any site changes._
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
 | [Soehlert](https://www.soehlert.com) | 🟩 Up | [soehlert.yml](https://github.com/soehlert/upptime/commits/master/history/soehlert.yml) | <img alt="Response time graph" src="./graphs/soehlert.png" height="20"> 320ms | 100.00%
-| [SamOehlert](https://www.samoehlert.com) | 🟥 Down | [sam-oehlert.yml](https://github.com/soehlert/upptime/commits/master/history/sam-oehlert.yml) | <img alt="Response time graph" src="./graphs/sam-oehlert.png" height="20"> 173ms | 100.00%
+| [SamOehlert](https://www.samoehlert.com) | 🟩 Up | [sam-oehlert.yml](https://github.com/soehlert/upptime/commits/master/history/sam-oehlert.yml) | <img alt="Response time graph" src="./graphs/sam-oehlert.png" height="20"> 175ms | 100.00%
 
 <!--end: status pages-->
 

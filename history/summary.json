@@ -3,9 +3,9 @@
     "name": "Soehlert",
     "url": "https://www.soehlert.com",
     "slug": "soehlert",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00",
-    "time": 400
+    "time": 398
   },
   {
     "name": "SamOehlert",
@@ -13,6 +13,6 @@
     "slug": "sam-oehlert",
     "status": "up",
     "uptime": "100.00",
-    "time": 205
+    "time": 200
   }
 ]

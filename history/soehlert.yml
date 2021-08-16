@@ -1,6 +1,6 @@
 - url: https://www.soehlert.com
-- status: up
-- code: 200
-- responseTime: 230
-- lastUpdated: 2021-08-16T18:13:44.929Z
+- status: down
+- code: 400
+- responseTime: 816
+- lastUpdated: 2021-08-16T19:04:19.900Z
 - startTime: 2020-08-12T16:18:57.106Z
